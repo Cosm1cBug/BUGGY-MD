@@ -31,3 +31,12 @@ Open terminal & copy paste/type these codes.
 - npm i 
 - node .
 - Wait for bot to start.... then scan the Qr code done!
+
+
+
+Special Thanks to
+[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
+[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
+
+#### Contributor
+[![DineshValor](https://github.com/DineshValor.png?size=100)](https://github.com/DineshValor)
