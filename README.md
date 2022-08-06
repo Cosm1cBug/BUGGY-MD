@@ -35,6 +35,7 @@ Open terminal & copy paste/type these codes.
 
 
 Special Thanks to
+
 [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 
