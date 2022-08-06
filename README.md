@@ -1,7 +1,7 @@
 # BUGGY-MD
 A simple WhatsApp bot using Bailey's Lightweight full-featured WhatsApp Web + Multi-Device API
 
-![Visitor Count](https://profile-counter.glitch.me/Cosmic-Bug/BUGGY-MD/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/BUGGY-MD/count.svg)
 
 If you like my work feel free to give a ⭐ to this repo, it would really appreciate me.
 
