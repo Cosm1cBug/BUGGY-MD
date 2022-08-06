@@ -8,9 +8,9 @@ If you like my work feel free to give a ⭐ to this repo, it would really apprec
 For Windows Installation
 
 Requirements:
-- Download & Install Git Click here
-- Download & Install NodeJS Click here
-- Download & Install FFmpeg Click here
+- Download & Install Git 
+- Download & Install NodeJS 
+- Download & Install FFmpeg 
 
 Then,
 - Add FFmpeg to PATH environment variable
